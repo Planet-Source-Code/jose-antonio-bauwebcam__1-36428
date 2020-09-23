@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<WebCams>
+<Folder Name="Nigeria">
+<WebCam><Name><![CDATA[Lagos]]></Name><Description><![CDATA[]]></Description><URL>http://venus.spaceports.com/~topsoft/webcam.jpg</URL><URLWeb></URLWeb><Interval></Interval><EMail><![CDATA[]]></EMail> <ICQ><![CDATA[]]></ICQ></WebCam>
+</Folder><Folder Name="Sudáfrica">
+<WebCam><Name><![CDATA[Cape Town-Protea Road]]></Name><Description><![CDATA[]]></Description><URL>http://www.earthcam.net/affiliates/southafrica/capetown.jpg</URL><URLWeb></URLWeb><Interval></Interval><EMail><![CDATA[]]></EMail> <ICQ><![CDATA[]]></ICQ></WebCam>
+<WebCam><Name><![CDATA[Cape Town-SABC offices]]></Name><Description><![CDATA[]]></Description><URL>http://www.satman.co.za/images/capecam.jpg</URL><URLWeb></URLWeb><Interval></Interval><EMail><![CDATA[]]></EMail> <ICQ><![CDATA[]]></ICQ></WebCam>
+<WebCam><Name><![CDATA[Cape Town-Table Mountain]]></Name><Description><![CDATA[]]></Description><URL>http://www.24.com/camera/vanhunks.jpg</URL><URLWeb></URLWeb><Interval></Interval><EMail><![CDATA[]]></EMail> <ICQ><![CDATA[]]></ICQ></WebCam>
+<WebCam><Name><![CDATA[Georgetown-Pierhead]]></Name><Description><![CDATA[]]></Description><URL>http://www.the-islander.org.ac/webcam/pierhead.jpg</URL><URLWeb></URLWeb><Interval></Interval><EMail><![CDATA[]]></EMail> <ICQ><![CDATA[]]></ICQ></WebCam>
+</Folder><Folder Name="Tanzania">
+<WebCam><Name><![CDATA[Zanzibar]]></Name><Description><![CDATA[East Africa's only webcam. We have mounted our live camera on a telecommunications tower in the heart of Stone Town, affording superb aerial views of Zanzibar. (Zanzibar.net). (Tanzania).]]></Description><URL>http://www.zanzibar.net/cam.jpg</URL><URLWeb></URLWeb><Interval></Interval><EMail><![CDATA[]]></EMail> <ICQ><![CDATA[]]></ICQ></WebCam>
+</Folder>
+
+</WebCams>

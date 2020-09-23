@@ -1,0 +1,7 @@
+PopMenu = 44, 44, 444, 492, C, 22, 22, 422, 470, C
+mDeclares = 44, 44, 488, 427, C
+cNCMetrics = 66, 66, 571, 526, C
+cStoreMenu = 88, 88, 593, 548, C
+ISubclass = 0, 0, 0, 0, C
+MSubclass = 88, 88, 556, 471, C
+GSubclass = 110, 110, 615, 570, C

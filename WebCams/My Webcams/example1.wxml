@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<WebCams>
+  <WebCam>
+    <Name><![CDATA[a]]></Name>
+    <Description><![CDATA[b]]></Description>
+    <URL><![CDATA[c]]></URL>
+    <URLWeb><![CDATA[]]></URLWeb>
+    <Interval><![CDATA[5]]></Interval>
+    <EMail><![CDATA[]]></EMail>
+    <ICQ><![CDATA[]]></ICQ>
+  </WebCam>
+  <WebCam>
+    <Name><![CDATA[b]]></Name>
+    <Description><![CDATA[c]]></Description>
+    <URL><![CDATA[d]]></URL>
+    <URLWeb><![CDATA[]]></URLWeb>
+    <Interval><![CDATA[5]]></Interval>
+    <EMail><![CDATA[]]></EMail>
+    <ICQ><![CDATA[]]></ICQ>
+  </WebCam>
+</WebCams>
+

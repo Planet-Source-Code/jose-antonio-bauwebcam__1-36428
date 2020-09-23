@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<WebCams>
+<Folder Name="Antártica">
+<WebCam><Name><![CDATA[AASTO Observatory 1]]></Name><Description><![CDATA[]]></Description><URL>http://bat.phys.unsw.edu.au/~aasto/jpg/latest.jpg</URL><URLWeb></URLWeb><Interval></Interval><EMail><![CDATA[]]></EMail> <ICQ><![CDATA[]]></ICQ></WebCam>
+<WebCam><Name><![CDATA[AASTO Observatory 2]]></Name><Description><![CDATA[]]></Description><URL>http://bat.phys.unsw.edu.au/~aasto/jpg/inside.jpg</URL><URLWeb></URLWeb><Interval></Interval><EMail><![CDATA[]]></EMail> <ICQ><![CDATA[]]></ICQ></WebCam>
+</Folder>
+
+</WebCams>
