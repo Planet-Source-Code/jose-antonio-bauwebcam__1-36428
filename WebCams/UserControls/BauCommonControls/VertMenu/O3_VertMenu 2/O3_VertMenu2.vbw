@@ -1,0 +1,11 @@
+O3_VerticalMenu = 44, 44, 549, 494, , 22, 22, 622, 472, C
+MenuItem = 66, 66, 520, 526, 
+MenuItems = 0, 0, 0, 0, C
+VMenu = 0, 0, 0, 0, C
+Menus = 110, 110, 714, 560, C
+ModGlobal = 110, 110, 615, 560, Z
+clsArrow = 22, 22, 669, 178, C
+ppMenuItemObjects = 0, 0, 0, 0, C, 44, 44, 644, 494, C
+ClsDialog = 132, 132, 736, 582, 
+General = 132, 132, 736, 582, C, 88, 88, 688, 538, C
+ppMenuObjects = 198, 198, 802, 648, C, 66, 66, 666, 516, C

@@ -1,0 +1,7 @@
+VBGROUP 5.0
+Project=UserControls\AVIFiles\prjAVIFiles.vbp
+Project=UserControls\BauCommonControls\BAUCommonControls.vbp
+Project=UserControls\DownloadURL\DownloadFile.vbp
+Project=UserControls\menuIcon\PopMenu.vbp
+Project=UserControls\WebBanner\webBanner.vbp
+StartupProject=bauCams.vbp

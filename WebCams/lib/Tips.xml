@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<MenuItems>
+	<!-- Trucos del día -->
+	<MenuItem ID="1">
+		<Language Type="Spanish"><![CDATA[Primer truco]]></Language>
+		<Language Type="English"><![CDATA[First tip]]></Language>
+	</MenuItem>
+	<MenuItem ID="2">
+		<Language Type="Spanish"><![CDATA[Segundo truco]]></Language>
+		<Language Type="English"><![CDATA[Second tip]]></Language>
+	</MenuItem>
+	<MenuItem ID="3">
+		<Language Type="Spanish"><![CDATA[Tercer truco]]></Language>
+		<Language Type="English"><![CDATA[Third tip]]></Language>
+	</MenuItem>
+</MenuItems>

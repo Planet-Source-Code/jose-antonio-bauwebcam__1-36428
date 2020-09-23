@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<WebCams>
+  <Folder Name="España">
+    <WebCam>
+      <Name>Altea</Name>
+      <Description><![CDATA[Vista del paseo marítimo de Altea]]></Description>
+      <URL>http://camara.ctv.es/axis.jpg</URL>
+      <URLWeb>http://camara.ctv.es</URLWeb>
+      <Interval>5</Interval>
+      <EMail><![CDATA[]]></EMail>
+      <ICQ><![CDATA[]]></ICQ>
+    </WebCam>
+  </Folder>
+  <Folder Name="Inglaterra">
+    <WebCam>
+      <Name>Croyde Bay</Name>
+      <Description><![CDATA[Life from Croyde Bay, England.]]></Description>
+      <URL>http://www.webviews.co.uk/camclients/rudaholidaypark/liveimages/rudaholidaypark01.jpg</URL>
+      <URLWeb>http://www.webviews.co.uk</URLWeb>
+      <Interval>20</Interval>
+      <EMail><![CDATA[]]></EMail>
+      <ICQ><![CDATA[]]></ICQ>
+    </WebCam>
+    <WebCam>
+      <Name>Vulcan Bomber 1</Name>
+      <Description><![CDATA[An amazing view from the Vulcan Bomber, in England.]]></Description>
+      <URL>http://www.webviews.co.uk/camclients/vulcan-oc/liveimages/vulcan01.jpg</URL>
+      <URLWeb>http://www.webviews.co.uk</URLWeb>
+      <Interval>20</Interval>
+      <EMail><![CDATA[]]></EMail>
+      <ICQ><![CDATA[]]></ICQ>
+    </WebCam>
+    <WebCam>
+      <Name>Waterford</Name>
+      <Description><![CDATA[Over looking Waterford, this cam rotates through 360 degrees in a 24 hour period.]]></Description>
+      <URL>http://www.webviews.co.uk/liveimages/waterford.jpg</URL>
+      <URLWeb>http://www.webviews.co.uk</URLWeb>
+      <Interval>20</Interval>
+      <EMail><![CDATA[]]></EMail>
+      <ICQ><![CDATA[]]></ICQ>
+    </WebCam>
+    <WebCam>
+      <Name>Oban</Name>
+      <Description><![CDATA[is The Gateway to the Western Isles in Scotland]]></Description>
+      <URL>http://www.webviews.co.uk/camclients/oban-lorn-ta/liveimages/oban-lorn-ta01.jpg</URL>
+      <URLWeb>http://www.webviews.co.uk</URLWeb>
+      <Interval>20</Interval>
+      <EMail><![CDATA[]]></EMail>
+      <ICQ><![CDATA[]]></ICQ>
+    </WebCam>
+    <WebCam>
+      <Name>Loch Ness</Name>
+      <Description><![CDATA[is From project's research vessel Deepscan]]></Description>
+      <URL>http://www.webviews.co.uk/camclients/lochnessproject/liveimages/lochnessproject02.jpg</URL>
+      <URLWeb>http://www.webviews.co.uk</URLWeb>
+      <Interval>20</Interval>
+      <EMail><![CDATA[]]></EMail>
+      <ICQ><![CDATA[]]></ICQ>
+    </WebCam>
+  </Folder>
+  <Folder Name="Estados Unidos">
+    <WebCam>
+      <Name>New York Bridge</Name>
+      <Description><![CDATA[Live from New York]]></Description>
+      <URL>http://www.earthcam.com/ec_metros/newyork/newyork/post.jpg</URL>
+      <URLWeb>http://www.earthcam.com</URLWeb>
+      <Interval>20</Interval>
+      <EMail><![CDATA[]]></EMail>
+      <ICQ><![CDATA[]]></ICQ>
+    </WebCam>
+  </Folder>
+  <Folder Name="Tiempo">
+    <WebCam>
+      <Name>Weather</Name>
+      <Description><![CDATA[Weather camera, winter storm coming!]]></Description>
+      <URL>http://www.rsn.com/image_display/0,3564,1354638,00.JPG</URL>
+      <URLWeb>http://www.rsn.com</URLWeb>
+      <Interval>20</Interval>
+      <EMail><![CDATA[]]></EMail>
+      <ICQ><![CDATA[]]></ICQ>
+    </WebCam>
+    <WebCam>
+      <Name>Altea</Name>
+      <Description><![CDATA[Vista del paseo marítimo de Altea]]></Description>
+      <URL>http://camara.ctv.es/axis.jpg</URL>
+      <URLWeb>http://camara.ctv.es</URLWeb>
+      <Interval>5</Interval>
+      <EMail><![CDATA[]]></EMail>
+      <ICQ><![CDATA[]]></ICQ>
+    </WebCam>
+  </Folder>
+</WebCams>
+

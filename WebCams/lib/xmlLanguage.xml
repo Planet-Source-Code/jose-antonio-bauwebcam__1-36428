@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<MenuItems>
+	<!-- Opciones del menú Archivo -->
+	<MenuItem ID="1">
+		<Language Type="Spanish"><![CDATA[&Archivo]]></Language>
+		<Language Type="English"><![CDATA[&File]]></Language>
+	</MenuItem>
+	<MenuItem ID="2">
+		<Language Type="Spanish"><![CDATA[&Nuevo archivo ...]]></Language>
+		<Language Type="English"><![CDATA[&New file ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="3">
+		<Language Type="Spanish"><![CDATA[&Abrir archivo ...]]></Language>
+		<Language Type="English"><![CDATA[&Open file...]]></Language>
+	</MenuItem>
+	<MenuItem ID="4">
+		<Language Type="Spanish"><![CDATA[&Guardar archivo ...]]></Language>
+		<Language Type="English"><![CDATA[&Save file ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="5">
+		<Language Type="Spanish"><![CDATA[Guar&dar archivo como ...]]></Language>
+		<Language Type="English"><![CDATA[Sa&ve file as ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="6">
+		<Language Type="Spanish"><![CDATA[Agregar &carpeta...]]></Language>
+		<Language Type="English"><![CDATA[Add &folder ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="7">
+		<Language Type="Spanish"><![CDATA[Agregar &webCam ...]]></Language>
+		<Language Type="English"><![CDATA[Add &webCam ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="8">
+		<Language Type="Spanish"><![CDATA[&Propiedades ...]]></Language>
+		<Language Type="English"><![CDATA[&Properties ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="9">
+		<Language Type="Spanish"><![CDATA[&Ver webCam ...]]></Language>
+		<Language Type="English"><![CDATA[&See webCam ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="10">
+		<Language Type="Spanish"><![CDATA[&Imprimir ...]]></Language>
+		<Language Type="English"><![CDATA[&Print ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="11">
+		<Language Type="Spanish"><![CDATA[&Salir]]></Language>
+		<Language Type="English"><![CDATA[E&xit]]></Language>
+	</MenuItem>
+	<MenuItem ID="300">
+		<Language Type="Spanish"><![CDATA[&Quitar ...]]></Language>
+		<Language Type="English"><![CDATA[&Drop ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="301">
+		<Language Type="Spanish"><![CDATA[Visitar web cámara]]></Language>
+		<Language Type="English"><![CDATA[View webcam web]]></Language>
+	</MenuItem>
+
+	<!-- Opciones del menú Herramientas -->
+	<MenuItem ID="12">
+		<Language Type="Spanish"><![CDATA[&Herramientas]]></Language>
+		<Language Type="English"><![CDATA[&Tools]]></Language>
+	</MenuItem>
+	<MenuItem ID="13">
+		<Language Type="Spanish"><![CDATA[&Ver]]></Language>
+		<Language Type="English"><![CDATA[&Show]]></Language>
+	</MenuItem>
+	<MenuItem ID="14">
+		<Language Type="Spanish"><![CDATA[&Ventana de proyecto]]></Language>
+		<Language Type="English"><![CDATA[&Project window]]></Language>
+	</MenuItem>
+	<MenuItem ID="15">
+		<Language Type="Spanish"><![CDATA[&Barra de Herramientas]]></Language>
+		<Language Type="English"><![CDATA[&Toolbar]]></Language>
+	</MenuItem>
+	<MenuItem ID="16">
+		<Language Type="Spanish"><![CDATA[&Menú vertical]]></Language>
+		<Language Type="English"><![CDATA[&Vertical menu]]></Language>
+	</MenuItem>
+	<MenuItem ID="17">
+		<Language Type="Spanish"><![CDATA[&Idioma]]></Language>
+		<Language Type="English"><![CDATA[&Language]]></Language>
+	</MenuItem>
+	<MenuItem ID="18">
+		<Language Type="Spanish"><![CDATA[&Español]]></Language>
+		<Language Type="English"><![CDATA[&Spanish]]></Language>
+	</MenuItem>
+	<MenuItem ID="19">
+		<Language Type="Spanish"><![CDATA[&Inglés]]></Language>
+		<Language Type="English"><![CDATA[&English]]></Language>
+	</MenuItem>
+	<MenuItem ID="20">
+		<Language Type="Spanish"><![CDATA[Ver ficheros web ...]]></Language>
+		<Language Type="English"><![CDATA[See web files ...]]></Language>
+	</MenuItem>
+	
+	<!-- Opciones del menú Edición -->
+	<MenuItem ID="800">
+		<Language Type="Spanish"><![CDATA[&Edición]]></Language>
+		<Language Type="English"><![CDATA[&Edit]]></Language>
+	</MenuItem>
+	<MenuItem ID="801">
+		<Language Type="Spanish"><![CDATA[Co&rtar]]></Language>
+		<Language Type="English"><![CDATA[C&ut]]></Language>
+	</MenuItem>
+	<MenuItem ID="802">
+		<Language Type="Spanish"><![CDATA[&Copiar]]></Language>
+		<Language Type="English"><![CDATA[&Copy]]></Language>
+	</MenuItem>
+	<MenuItem ID="803">
+		<Language Type="Spanish"><![CDATA[&Pegar]]></Language>
+		<Language Type="English"><![CDATA[&Paste]]></Language>
+	</MenuItem>
+
+	<!-- Menú ventana -->
+	<MenuItem ID="600">
+		<Language Type="Spanish"><![CDATA[&Ventana]]></Language>
+		<Language Type="English"><![CDATA[&Window]]></Language>
+	</MenuItem>
+	<MenuItem ID="601">
+		<Language Type="Spanish"><![CDATA[&Cascada]]></Language>
+		<Language Type="English"><![CDATA[&Cascade]]></Language>
+	</MenuItem>
+	<MenuItem ID="602">
+		<Language Type="Spanish"><![CDATA[Mosaico &horizontal]]></Language>
+		<Language Type="English"><![CDATA[Tile &horizontal]]></Language>
+	</MenuItem>
+	<MenuItem ID="603">
+		<Language Type="Spanish"><![CDATA[Mosaico &vertical]]></Language>
+		<Language Type="English"><![CDATA[Tile &vertical]]></Language>
+	</MenuItem>
+	<MenuItem ID="604">
+		<Language Type="Spanish"><![CDATA[&Organizar iconos]]></Language>
+		<Language Type="English"><![CDATA[A&rrange icons]]></Language>
+	</MenuItem>
+
+	<!-- Menú de ayuda -->
+	<MenuItem ID="21">
+		<Language Type="Spanish"><![CDATA[A&yuda]]></Language>
+		<Language Type="English"><![CDATA[&Help]]></Language>
+	</MenuItem>
+	<MenuItem ID="22">
+		<Language Type="Spanish"><![CDATA[&Indice]]></Language>
+		<Language Type="English"><![CDATA[&Index]]></Language>
+	</MenuItem>
+	<MenuItem ID="23">
+		<Language Type="Spanish"><![CDATA[&Truco del día ...]]></Language>
+		<Language Type="English"><![CDATA[&Tip ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="24">
+		<Language Type="Spanish"><![CDATA[&Web ...]]></Language>
+		<Language Type="English"><![CDATA[&Web ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="25">
+		<Language Type="Spanish"><![CDATA[&Acerca de ...]]></Language>
+		<Language Type="English"><![CDATA[&About ...]]></Language>
+	</MenuItem>
+
+	<!-- Botones de la barra de herramientas -->
+	<MenuItem ID="26">
+		<Language Type="Spanish"><![CDATA[Nuevo]]></Language>
+		<Language Type="English"><![CDATA[New]]></Language>
+	</MenuItem>
+	<MenuItem ID="27">
+		<Language Type="Spanish"><![CDATA[Proyecto]]></Language>
+		<Language Type="English"><![CDATA[Project]]></Language>
+	</MenuItem>
+	<MenuItem ID="28">
+		<Language Type="Spanish"><![CDATA[Carpeta]]></Language>
+		<Language Type="English"><![CDATA[Folder]]></Language>
+	</MenuItem>
+	<MenuItem ID="29">
+		<Language Type="Spanish"><![CDATA[WebCam]]></Language>
+		<Language Type="English"><![CDATA[WebCam]]></Language>
+	</MenuItem>
+	<MenuItem ID="30">
+		<Language Type="Spanish"><![CDATA[Abrir]]></Language>
+		<Language Type="English"><![CDATA[Open]]></Language>
+	</MenuItem>
+	<MenuItem ID="31">
+		<Language Type="Spanish"><![CDATA[Guardar]]></Language>
+		<Language Type="English"><![CDATA[Save]]></Language>
+	</MenuItem>
+	<MenuItem ID="32">
+		<Language Type="Spanish"><![CDATA[Propiedades]]></Language>
+		<Language Type="English"><![CDATA[Properties]]></Language>
+	</MenuItem>
+	<MenuItem ID="33">
+		<Language Type="Spanish"><![CDATA[Ver cámara]]></Language>
+		<Language Type="English"><![CDATA[See camera]]></Language>
+	</MenuItem>
+	<MenuItem ID="34">
+		<Language Type="Spanish"><![CDATA[Ayuda]]></Language>
+		<Language Type="English"><![CDATA[Help]]></Language>
+	</MenuItem>
+	<MenuItem ID="900">
+		<Language Type="Spanish"><![CDATA[Cortar]]></Language>
+		<Language Type="English"><![CDATA[Cut]]></Language>
+	</MenuItem>
+	<MenuItem ID="901">
+		<Language Type="Spanish"><![CDATA[Copiar]]></Language>
+		<Language Type="English"><![CDATA[Copy]]></Language>
+	</MenuItem>
+	<MenuItem ID="902">
+		<Language Type="Spanish"><![CDATA[Pegar]]></Language>
+		<Language Type="English"><![CDATA[Paste]]></Language>
+	</MenuItem>
+
+	<!-- Cabecera del árbol de proyectos -->
+	<MenuItem ID="41">
+		<Language Type="Spanish"><![CDATA[webCamms]]></Language>
+		<Language Type="English"><![CDATA[webCamms]]></Language>
+	</MenuItem>
+
+	<!-- Menú vertical -->
+	<MenuItem ID="42">
+		<Language Type="Spanish"><![CDATA[Archivo]]></Language>
+		<Language Type="English"><![CDATA[File]]></Language>
+	</MenuItem>
+	<MenuItem ID="43">
+		<Language Type="Spanish"><![CDATA[Quitar]]></Language>
+		<Language Type="English"><![CDATA[Drop]]></Language>
+	</MenuItem>
+	<MenuItem ID="44">
+		<Language Type="Spanish"><![CDATA[Acerca de]]></Language>
+		<Language Type="English"><![CDATA[About]]></Language>
+	</MenuItem>
+	<MenuItem ID="45">
+		<Language Type="Spanish"><![CDATA[Web]]></Language>
+		<Language Type="English"><![CDATA[Web]]></Language>
+	</MenuItem>
+
+	<!-- Barra de estado -->
+	<MenuItem ID="46">
+		<Language Type="Spanish"><![CDATA[Preparado ...]]></Language>
+		<Language Type="English"><![CDATA[Ready ...]]></Language>
+	</MenuItem>
+
+	<!-- Mensajes de la pantalla de entrada -->
+	<MenuItem ID="60">
+		<Language Type="Spanish"><![CDATA[Cargando los datos del registro ...]]></Language>
+		<Language Type="English"><![CDATA[Loading registry data ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="61">
+		<Language Type="Spanish"><![CDATA[Inicializando la pantalla ...]]></Language>
+		<Language Type="English"><![CDATA[Init screen ...]]></Language>
+	</MenuItem>
+	<MenuItem ID="62">
+		<Language Type="Spanish"><![CDATA[Cargando los banners ...]]></Language>
+		<Language Type="English"><![CDATA[Loading banners ...]]></Language>
+	</MenuItem>
+
+	<!-- Errores del programa principal -->
+	<MenuItem ID="81">
+		<Language Type="Spanish"><![CDATA[Error al cargar el fichero de webCam]]></Language>
+		<Language Type="English"><![CDATA[Error. Can't load the webCam file]]></Language>
+	</MenuItem>
+	<MenuItem ID="83">
+		<Language Type="Spanish"><![CDATA[No se han grabado las modificaciones.]]></Language>
+		<Language Type="English"><![CDATA[File has been modified.]]></Language>
+	</MenuItem>
+	<MenuItem ID="84">
+		<Language Type="Spanish"><![CDATA[¿Desea grabarlas ahora?]]></Language>
+		<Language Type="English"><![CDATA[Do you want save it?]]></Language>
+	</MenuItem>
+	<MenuItem ID="85">
+		<Language Type="Spanish"><![CDATA[Ficheros de webCam (*.wxml)|*.wxml|Todos los ficheros (*.*)|*.*]]></Language>
+		<Language Type="English"><![CDATA[WebCam files (*.wxml)|*.wxml|All files (*.*)|*.*]]></Language>
+	</MenuItem>
+	<MenuItem ID="86">
+		<Language Type="Spanish"><![CDATA[Ya existe un fichero llamado %s.]]></Language>
+		<Language Type="English"><![CDATA[Exist a file named %s.]]></Language>
+	</MenuItem>
+	<MenuItem ID="87">
+		<Language Type="Spanish"><![CDATA[¿Desea sobreescribirlo?]]></Language>
+		<Language Type="English"><![CDATA[Do you want overwrite it?]]></Language>
+	</MenuItem>
+	<MenuItem ID="90">
+		<Language Type="Spanish"><![CDATA[No es posible agregar carpetas a una webCam]]></Language>
+		<Language Type="English"><![CDATA[Can't add folder to webCams]]></Language>
+	</MenuItem>
+	<MenuItem ID="91">
+		<Language Type="Spanish"><![CDATA[Introduzca el nombre de la carpeta]]></Language>
+		<Language Type="English"><![CDATA[Enter folder name]]></Language>
+	</MenuItem>
+	<MenuItem ID="92">
+		<Language Type="Spanish"><![CDATA[Nueva carpeta]]></Language>
+		<Language Type="English"><![CDATA[New folder]]></Language>
+	</MenuItem>
+	<MenuItem ID="93">
+		<Language Type="Spanish"><![CDATA[No es posible agregar webCams dentro de otras webCams]]></Language>
+		<Language Type="English"><![CDATA[Can't add webCams to webCams]]></Language>
+	</MenuItem>
+	<MenuItem ID="94">
+		<Language Type="Spanish"><![CDATA[No es posible eliminar el elemento raíz]]></Language>
+		<Language Type="English"><![CDATA[Can't drop the root]]></Language>
+	</MenuItem>
+	<MenuItem ID="95">
+		<Language Type="Spanish"><![CDATA[Al eliminar una carpeta se eliminaran también sus elementos]]></Language>
+		<Language Type="English"><![CDATA[When drop a folder you'll drop her items too]]></Language>
+	</MenuItem>
+	<MenuItem ID="96">
+		<Language Type="Spanish"><![CDATA[¿Desea continuar?]]></Language>
+		<Language Type="English"><![CDATA[Do you wish continue?]]></Language>
+	</MenuItem>
+	<MenuItem ID="97">
+		<Language Type="Spanish"><![CDATA[¿Realmente desea eliminar la webCam %s?]]></Language>
+		<Language Type="English"><![CDATA[Do you want drop the webCam %s?]]></Language>
+	</MenuItem>
+	<MenuItem ID="98">
+		<Language Type="Spanish"><![CDATA[Seleccione un elemento o carpeta]]></Language>
+		<Language Type="English"><![CDATA[Select an item o folder]]></Language>
+	</MenuItem>
+	<MenuItem ID="99">
+		<Language Type="Spanish"><![CDATA[Error al eliminar el elemento %s]]></Language>
+		<Language Type="English"><![CDATA[Error when drop item %s]]></Language>
+	</MenuItem>
+
+	<!-- Ventana Acerca de ... -->
+	<MenuItem ID="100">
+		<Language Type="Spanish"><![CDATA[Sugerencias]]></Language>
+		<Language Type="English"><![CDATA[Sugesstions]]></Language>
+	</MenuItem>
+		
+	<!-- Ventana parámetros -->
+	<MenuItem ID="130">
+		<Language Type="Spanish"><![CDATA[Parámetros]]></Language>
+		<Language Type="English"><![CDATA[Parameters]]></Language>
+	</MenuItem>
+	<MenuItem ID="131">
+		<Language Type="Spanish"><![CDATA[&Nombre:]]></Language>
+		<Language Type="English"><![CDATA[&Name:]]></Language>
+	</MenuItem>		
+	<MenuItem ID="132">
+		<Language Type="Spanish"><![CDATA[<Nombre de la webCam>]]></Language>
+		<Language Type="English"><![CDATA[<webCam name>]]></Language>
+	</MenuItem>
+	<MenuItem ID="133">
+		<Language Type="Spanish"><![CDATA[Descripción:]]></Language>
+		<Language Type="English"><![CDATA[Description:]]></Language>
+	</MenuItem>
+	<MenuItem ID="134">
+		<Language Type="Spanish"><![CDATA[<Descripción de la webCam>]]></Language>
+		<Language Type="English"><![CDATA[<webCam description>]]></Language>
+	</MenuItem>
+	<MenuItem ID="135">
+		<Language Type="Spanish"><![CDATA[URL imagen:]]></Language>
+		<Language Type="English"><![CDATA[Image URL:]]></Language>
+	</MenuItem>
+	<MenuItem ID="136">
+		<Language Type="Spanish"><![CDATA[<URL de la webCamm>]]></Language>
+		<Language Type="English"><![CDATA[<webCamm URL>]]></Language>
+	</MenuItem>
+	<MenuItem ID="137">
+		<Language Type="Spanish"><![CDATA[Introduzca el nombre de la webCam]]></Language>
+		<Language Type="English"><![CDATA[Select webCam name]]></Language>
+	</MenuItem>
+	<MenuItem ID="138">
+		<Language Type="Spanish"><![CDATA[Introduzca la descripción de la webCam]]></Language>
+		<Language Type="English"><![CDATA[Select webCam description]]></Language>
+	</MenuItem>
+	<MenuItem ID="139">
+		<Language Type="Spanish"><![CDATA[Introduzca la URL de la webCam]]></Language>
+		<Language Type="English"><![CDATA[Select webCam URL]]></Language>
+	</MenuItem>
+	<MenuItem ID="140">
+		<Language Type="Spanish"><![CDATA[URL Web:]]></Language>
+		<Language Type="English"><![CDATA[Web URL]]></Language>
+	</MenuItem>	
+	<MenuItem ID="141">
+		<Language Type="Spanish"><![CDATA[<URL de la Web>]]></Language>
+		<Language Type="English"><![CDATA[<Web URL>]]></Language>
+	</MenuItem>	
+	<MenuItem ID="142">
+		<Language Type="Spanish"><![CDATA[Intervalo:]]></Language>
+		<Language Type="English"><![CDATA[Refresh:]]></Language>
+	</MenuItem>	
+	<MenuItem ID="143">
+		<Language Type="Spanish"><![CDATA[e&Mail:]]></Language>
+		<Language Type="English"><![CDATA[e&Mail:]]></Language>
+	</MenuItem>	
+	<MenuItem ID="144">
+		<Language Type="Spanish"><![CDATA[<Dirección de correo electrónico>]]></Language>
+		<Language Type="English"><![CDATA[<eMail address]]></Language>
+	</MenuItem>	
+	<MenuItem ID="145">
+		<Language Type="Spanish"><![CDATA[IC&Q:]]></Language>
+		<Language Type="English"><![CDATA[IC&Q:]]></Language>
+	</MenuItem>	
+	<MenuItem ID="146">
+		<Language Type="Spanish"><![CDATA[<Identificador ICQ>]]></Language>
+		<Language Type="English"><![CDATA[<ICQ>]]></Language>
+	</MenuItem>	
+
+
+	<!-- Botones -->
+	<MenuItem ID="200">
+		<Language Type="Spanish"><![CDATA[&Cerrar]]></Language>
+		<Language Type="English"><![CDATA[&Close]]></Language>
+	</MenuItem>
+	<MenuItem ID="201">
+		<Language Type="Spanish"><![CDATA[&Aceptar]]></Language>
+		<Language Type="English"><![CDATA[&Accept]]></Language>
+	</MenuItem>
+	<MenuItem ID="202">
+		<Language Type="Spanish"><![CDATA[&Cancelar]]></Language>
+		<Language Type="English"><![CDATA[&Cancel]]></Language>
+	</MenuItem>
+	<MenuItem ID="203">
+		<Language Type="Spanish"><![CDATA[A&yuda]]></Language>
+		<Language Type="English"><![CDATA[&Help]]></Language>
+	</MenuItem>
+	<MenuItem ID="204">
+		<Language Type="Spanish"><![CDATA[Aña&dir]]></Language>
+		<Language Type="English"><![CDATA[A&dd]]></Language>
+	</MenuItem>
+	<MenuItem ID="205">
+		<Language Type="Spanish"><![CDATA[&Eliminar]]></Language>
+		<Language Type="English"><![CDATA[D&rop]]></Language>
+	</MenuItem>
+	<MenuItem ID="206">
+		<Language Type="Spanish"><![CDATA[Ac&erca de]]></Language>
+		<Language Type="English"><![CDATA[A&bout]]></Language>
+	</MenuItem>
+
+	<!-- Ventana de vista de cámara -->
+	<MenuItem ID="400">
+		<Language Type="Spanish"><![CDATA[Tiempo]]></Language>
+		<Language Type="English"><![CDATA[Time]]></Language>
+	</MenuItem>
+	<MenuItem ID="401">
+		<Language Type="Spanish"><![CDATA[Ajustar]]></Language>
+		<Language Type="English"><![CDATA[Stretch]]></Language>
+	</MenuItem>
+	<MenuItem ID="402">
+		<Language Type="Spanish"><![CDATA[Detener/Continuar]]></Language>
+		<Language Type="English"><![CDATA[Stop/Start]]></Language>
+	</MenuItem>
+	<MenuItem ID="403">
+		<Language Type="Spanish"><![CDATA[Grabar]]></Language>
+		<Language Type="English"><![CDATA[Save]]></Language>
+	</MenuItem>
+	<MenuItem ID="404">
+		<Language Type="Spanish"><![CDATA[Pantalla completa]]></Language>
+		<Language Type="English"><![CDATA[Screen]]></Language>
+	</MenuItem>
+	<MenuItem ID="405">
+		<Language Type="Spanish"><![CDATA[segundos]]></Language>
+		<Language Type="English"><![CDATA[seconds]]></Language>
+	</MenuItem>
+	<MenuItem ID="406">
+		<Language Type="Spanish"><![CDATA[minutos]]></Language>
+		<Language Type="English"><![CDATA[minutes]]></Language>
+	</MenuItem>
+	<MenuItem ID="407">
+		<Language Type="Spanish"><![CDATA[La webCam no tiene página asociada"]]></Language>
+		<Language Type="English"><![CDATA[The webCam hasn't information about the main page]]></Language>
+	</MenuItem>
+	<MenuItem ID="408">
+		<Language Type="Spanish"><![CDATA[La webCam no tiene dirección de correo asociada]]></Language>
+		<Language Type="English"><![CDATA[The webCam hasn't information about the user e-mail]]></Language>
+	</MenuItem>
+	<MenuItem ID="409">
+		<Language Type="Spanish"><![CDATA[Ver Web]]></Language>
+		<Language Type="English"><![CDATA[See Web]]></Language>
+	</MenuItem>
+	<MenuItem ID="410">
+		<Language Type="Spanish"><![CDATA[Enviar e-mail]]></Language>
+		<Language Type="English"><![CDATA[Send e-mail]]></Language>
+	</MenuItem>
+	<MenuItem ID="411">
+		<Language Type="Spanish"><![CDATA[Información]]></Language>
+		<Language Type="English"><![CDATA[Information]]></Language>
+	</MenuItem>
+
+
+	<!-- Ventana truco del día -->
+	<MenuItem ID="500">
+		<Language Type="Spanish"><![CDATA[Truco del día ...]]></Language>
+		<Language Type="English"><![CDATA[Tip ..]]></Language>
+	</MenuItem>
+	<MenuItem ID="501">
+		<Language Type="Spanish"><![CDATA[Siguiente]]></Language>
+		<Language Type="English"><![CDATA[Next]]></Language>
+	</MenuItem>
+	<MenuItem ID="502">
+		<Language Type="Spanish"><![CDATA[Error al cargar los trucos del día]]></Language>
+		<Language Type="English"><![CDATA[Error loading the tips of the day]]></Language>
+	</MenuItem>
+
+	<!-- Ventana truco del día -->
+	<MenuItem ID="700">
+		<Language Type="Spanish"><![CDATA[Información]]></Language>
+		<Language Type="English"><![CDATA[Information]]></Language>
+	</MenuItem>
+	<MenuItem ID="701">
+		<Language Type="Spanish"><![CDATA[Imagen:]]></Language>
+		<Language Type="English"><![CDATA[Image:]]></Language>
+	</MenuItem>
+	<MenuItem ID="702">
+		<Language Type="Spanish"><![CDATA[Página principal:]]></Language>
+		<Language Type="English"><![CDATA[Main page:]]></Language>
+	</MenuItem>
+	<MenuItem ID="703">
+		<Language Type="Spanish"><![CDATA[eMail:]]></Language>
+		<Language Type="English"><![CDATA[eMail:]]></Language>
+	</MenuItem>
+	<MenuItem ID="704">
+		<Language Type="Spanish"><![CDATA[ICQ:]]></Language>
+		<Language Type="English"><![CDATA[ICQ:]]></Language>
+	</MenuItem>
+	<MenuItem ID="705">
+		<Language Type="Spanish"><![CDATA[Web]]></Language>
+		<Language Type="English"><![CDATA[Web]]></Language>
+	</MenuItem>
+
+	<!-- Ventana principal (fichas) -->
+	<MenuItem ID="1000">
+		<Language Type="Spanish"><![CDATA[Archivo]]></Language>
+		<Language Type="English"><![CDATA[File]]></Language>
+	</MenuItem>
+	<MenuItem ID="1001">
+		<Language Type="Spanish"><![CDATA[Favoritos]]></Language>
+		<Language Type="English"><![CDATA[Favourites]]></Language>
+	</MenuItem>
+
+</MenuItems>

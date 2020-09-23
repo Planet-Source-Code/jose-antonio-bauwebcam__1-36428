@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<WebCams>
+  <WebCam>
+    <Name><![CDATA[Croyde Bay]]></Name>
+    <Description><![CDATA[Life from Croyde Bay, England.]]></Description>
+    <URL><![CDATA[http://www.webviews.co.uk/camclients/rudaholidaypark/liveimages/rudaholidaypark01.jpg]]></URL>
+    <URLWeb><![CDATA[http://www.webviews.co.uk]]></URLWeb>
+    <Interval><![CDATA[20]]></Interval>
+    <EMail><![CDATA[]]></EMail>
+    <ICQ><![CDATA[]]></ICQ>
+  </WebCam>
+</WebCams>
+
